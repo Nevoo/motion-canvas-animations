@@ -1,0 +1,14 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "break",
+      "targetTime": 43.866149392926474
+    },
+    {
+      "name": "useTrail",
+      "targetTime": 85.64087934775912
+    }
+  ],
+  "seed": 1231928701
+}

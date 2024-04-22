@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:ital,wght@0,300..700;1,300..700&display=swap');
+
+@font-face {
+    font-family: "Gilroy";
+    src: local("Gilroy"), url("public/fonts/Gilroy/Gilroy-ExtraBold.otf") format("opentype");
+    font-weight: bold;
+}

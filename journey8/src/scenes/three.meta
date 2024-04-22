@@ -1,0 +1,18 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "XandZ",
+      "targetTime": 9.506609547123627
+    },
+    {
+      "name": "upAndDown",
+      "targetTime": 12.921431808532613
+    },
+    {
+      "name": "ai",
+      "targetTime": 29.697499729730556
+    }
+  ],
+  "seed": 3268852639
+}

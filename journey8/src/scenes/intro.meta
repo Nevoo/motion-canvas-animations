@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "work split",
+      "targetTime": 65.53068223317632
+    },
+    {
+      "name": "task1",
+      "targetTime": 69.83910559166758
+    },
+    {
+      "name": "task2",
+      "targetTime": 71.43910559166757
+    },
+    {
+      "name": "task4",
+      "targetTime": 73.43910559166757
+    },
+    {
+      "name": "task5",
+      "targetTime": 81.1589376133203
+    }
+  ],
+  "seed": 83720048
+}
