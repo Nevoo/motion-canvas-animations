@@ -24,7 +24,7 @@ import {
     slideTransition,
     waitUntil,
 } from "@motion-canvas/core";
-import { Colors, WhiteLabel } from "../styles";
+import { WhiteLabel } from "../styles";
 import { IconTxt } from "../components/icon-text";
 import html from "../images/icons/html.svg";
 import js from "../images/icons/js.svg";
