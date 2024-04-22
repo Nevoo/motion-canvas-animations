@@ -5,7 +5,8 @@
   "scripts": {
     "start": "vite",
     "serve": "vite",
-    "build": "tsc && vite build"
+    "build": "tsc && vite build && cp index.html dist",
+    "preview": "vite preview"
   },
   "dependencies": {
     "@lezer/css": "^1.1.8",
@@ -13,7 +14,8 @@
     "@lezer/javascript": "^1.4.14",
     "@motion-canvas/2d": "^3.15.2",
     "@motion-canvas/core": "^3.15.2",
-    "@motion-canvas/ffmpeg": "^1.1.0"
+    "@motion-canvas/ffmpeg": "^1.1.0",
+    "path": "^0.12.7"
   },
   "devDependencies": {
     "@motion-canvas/ui": "^3.15.2",
