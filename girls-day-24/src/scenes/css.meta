@@ -1,0 +1,18 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "parallax",
+      "targetTime": 0.6333333333333334
+    },
+    {
+      "name": "move",
+      "targetTime": 1.85
+    },
+    {
+      "name": "next",
+      "targetTime": 2.85
+    }
+  ],
+  "seed": 3553096388
+}
